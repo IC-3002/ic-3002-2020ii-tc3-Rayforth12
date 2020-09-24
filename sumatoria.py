@@ -13,5 +13,4 @@ def sumatoria_constante(n):
     	    k=j
     	    for k in range(j+n):
     	    	return 1
-    
-
+   
